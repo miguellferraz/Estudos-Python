@@ -1,3 +1,6 @@
+# Conversão de tipos
+# Peça ao usuário dois números (inteiros ou reais) e imprima a soma, subtração, multiplicação e divisão entre eles.
+
 num1 = int(input("Digite um número: "))
 num2 = int(input("Digite um número: "))
 

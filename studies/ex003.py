@@ -1,3 +1,9 @@
+# Aprovação de aluno
+# Faça um programa que leia três notas, calcule e mostre a média aritmética entre elas, se a média aritmética for:
+    # Média maior ou igual a 7 – ALUNO APROVADO
+    # Média maior ou igual a 5 e menor que 7 – ALUNO EM RECUPERAÇÃO
+    # Média menor que 5 – ALUNO REPROVADO
+
 grade1 = float(input("Enter your first grade: "))
 grade2 = float(input("Enter your second grade: "))
 grade3 = float(input("Enter your third grade: "))
